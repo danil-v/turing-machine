@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style/new.png</file>
+        <file>style/open.png</file>
+        <file>style/save.png</file>
+        <file>style/left.png</file>
+        <file>style/pause.png</file>
+        <file>style/right.png</file>
+        <file>style/run.png</file>
+        <file>style/stop.png</file>
+        <file>style/step.png</file>
+        <file>style/export.png</file>
+        <file>style/import.png</file>
+        <file>style/clip.png</file>
+        <file>style/frame.png</file>
+        <file>style/down.png</file>
+        <file>style/table_left.png</file>
+        <file>style/table_right.png</file>
+        <file>style/table_delete.png</file>
+        <file>style/edit.png</file>
+        <file>style/cell_delete.png</file>
+        <file>style/column_delete.png</file>
+        <file>style/icon.ico</file>
+        <file>style/icon.png</file>
+        <file>style/enter.png</file>
+    </qresource>
+</RCC>
